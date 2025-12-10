@@ -1,2 +1,5 @@
-## Hi there 👋
-Hi, I’m Gunjan, a Data Analyst with experience building scalable cloud-based data solutions using Azure, Databricks, Python, SQL, and Power BI. I work on developing ETL pipelines, automating data quality checks, optimizing big data workflows, and enabling AI-driven analytics. Passionate about digital transformation, cloud engineering, and turning raw data into valuable insights. Always learning, always building.
+## 🌐 Hi, I’m Gunjan!
+
+# Data Engineer | Cloud & Analytics Enthusiast | Python Developer
+
+I’m passionate about building scalable, cloud-based data solutions that power analytics, automation, and digital transformation. With hands-on experience in Azure, Databricks, Python, SQL, and Power BI, I enjoy designing efficient data pipelines, ensuring high data quality, and turning complex datasets into actionable insights.
