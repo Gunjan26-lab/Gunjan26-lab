@@ -9,7 +9,7 @@ I’m passionate about building scalable, cloud-based data solutions that power 
 
 ## 🚀 What I Do
 
-🌩️ Build end-to-end Azure cloud pipelines (ADF, Synapse, Logic Apps, Databricks)
+🌩️ Build end-to-end cloud pipelines (ADF, AWS, Snowflake, Synapse, Logic Apps, Databricks, DBT)
 
 🧠 Develop AI-ready data flows and automated quality checks
 
